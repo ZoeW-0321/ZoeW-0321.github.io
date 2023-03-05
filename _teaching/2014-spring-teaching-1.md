@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "南京大学青年志愿者协会"
+collection: 组织经历
+type: "媒体部部员"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2020-10
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* 协调青协各部门的工作，并对各大活动进行采访报道，参与了十佳志愿者、十佳志愿项目、百个志愿服务等项目的采访写作
+* 运营青协微信公众平台，定期更新菜单栏，审核推送内容并进行美编及封面制作。
