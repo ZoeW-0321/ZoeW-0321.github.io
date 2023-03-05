@@ -6,11 +6,11 @@ main:
   - title: "组织及实习经历"
     url: /teaching/     
   
-  - title: "作品集"
-    url: /portfolio/
+  # - title: "作品集"
+  # url: /portfolio/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  # url: /markdown/
