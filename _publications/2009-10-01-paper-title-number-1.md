@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "南京大学创新训练项目"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: '《一种新的新闻叙事类型？基于内容分析法的新闻空间叙事研究》'
+date: 2021-2022
+paperurl: '(http://desktop.nju.edu.cn/CXCY/NJU/Item/Detail/e50a0816-1033-4478-9958-40ba3496599e)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+## 《一种新的新闻叙事类型？基于内容分析法的新闻空间叙事研究》
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+ * 查找文献，撰写文献综述，具备良好的信息检索能力和写作能力
+ * 广泛研读了国内外的空间新闻、数据新闻，对新闻的呈现形式有了更深刻的理解
+ * 使用SPSS和EXCEL进行内容分析与归纳总结，锻炼了科研能力
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[查看项目详情](http://desktop.nju.edu.cn/CXCY/NJU/Item/Detail/e50a0816-1033-4478-9958-40ba3496599e)
