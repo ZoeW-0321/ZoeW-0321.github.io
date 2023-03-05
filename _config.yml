@@ -50,9 +50,9 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # Social Sharing
-QQ:
+#QQ:
   username               : 暗淡蓝点
-微博:
+#微博:
   username               : 照野霜凝
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -73,35 +73,35 @@ analytics:
 # Site Author
 author:
   name             : "Zoe"
-  avatar           : "DSC04730.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "截屏2023-03-06 01.26.38.png"
+  bio              : "一个不算坚定的理想主义者"
   location         : "江苏南京"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  #email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  #facebook         :
   foursquare       :
   github           : "ZoeW-0321"
-  google_plus      :
+  #google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
