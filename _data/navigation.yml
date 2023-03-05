@@ -3,17 +3,11 @@ main:
   - title: "学术经历"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+ - title: "组织及实习经历"
+    url: /teaching/     
+  
+  - title: "作品集"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
