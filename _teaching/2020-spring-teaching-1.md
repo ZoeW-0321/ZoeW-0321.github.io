@@ -1,7 +1,8 @@
 ---
 title: "南京大学青年志愿者协会"
 collection: 组织经历
-type: "媒体部部员"
+type: "媒体部"
+venue: "干事"
 permalink: /teaching/2020-spring-teaching-1
 date: 2020-10-01
 ---
