@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello! I'm Zoe."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-大家好，这是我的个人主页，我是吴一诺，南京大学新闻传播学院新闻学系的大三学生，你也可以叫我Zoe。
+大家好，这是我的个人主页，我是吴一诺，南京大学新闻传播学院新闻学系的大三学生。
 
 ## 关于我
 
